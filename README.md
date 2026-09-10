@@ -4,7 +4,7 @@
 **Assignment:** Individual Mid Assignment  
 **Student Name:** MN. Rifa  
 **Student ID:** 23DA2-0502  
-**Submission Date:**7 September 2026  
+**Submission Date:7 September 2026  
 
 ---
 
